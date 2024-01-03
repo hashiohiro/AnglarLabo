@@ -26,10 +26,10 @@
     - ビルド&デプロイ
     - 自動テスト実行
 
-    [参考 : はじめてのAngularアプリケーションを作ろう](https://angular.jp/tutorial/first-app)
-
 3. 統合開発環境のインストール(IDE)
 
     以下のリンクより、Visual Studio Codeの最新版を取得、インストールする。
 
     [https://code.visualstudio.com/](https://code.visualstudio.com/)
+
+[参考 : はじめてのAngularアプリケーションを作ろう](https://angular.jp/tutorial/first-app)
